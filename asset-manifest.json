@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/myKart/static/css/main.db5946f7.css",
+    "main.js": "/myKart/static/js/main.ea8db0a7.js",
+    "static/media/dt.jpg": "/myKart/static/media/dt.f4c0b604476f865d28e5.jpg",
+    "static/media/tv.jpg": "/myKart/static/media/tv.8523a7f29ca30631d3c0.jpg",
+    "static/media/barby.jpg": "/myKart/static/media/barby.654ca45784e73d2e2b05.jpg",
+    "static/media/makeup.jpg": "/myKart/static/media/makeup.b582a128133d8d97195e.jpg",
+    "static/media/hf.jpg": "/myKart/static/media/hf.27c1cfc0f6cb271cd0df.jpg",
+    "static/media/car.jpg": "/myKart/static/media/car.dfca90fcb8b0f92293eb.jpg",
+    "static/media/sof.jpg": "/myKart/static/media/sof.f1913cf3c3c7dcc11e79.jpg",
+    "static/media/masala.jpg": "/myKart/static/media/masala.a6522752cd8994909279.jpg",
+    "static/media/washmachine.png": "/myKart/static/media/washmachine.d54d995e953402dd8ef0.png",
+    "static/media/camera.jpg": "/myKart/static/media/camera.5c67bda6ce5bcda5517b.jpg",
+    "static/media/cactus.jpg": "/myKart/static/media/cactus.bd4241f5e9e3a1b34d12.jpg",
+    "static/media/cart.jpg": "/myKart/static/media/cart.192734fa3a2cc3d4a278.jpg",
+    "static/media/rice.jpg": "/myKart/static/media/rice.456bcae5c1d01aad4788.jpg",
+    "static/media/edge40.jpg": "/myKart/static/media/edge40.343d795d078f70729ed6.jpg",
+    "static/media/watch.jpg": "/myKart/static/media/watch.9ccc0bf101dc3eca3744.jpg",
+    "static/media/map.jpg": "/myKart/static/media/map.a0149cddf1c0e91fb14f.jpg",
+    "static/media/realmewired.jpg": "/myKart/static/media/realmewired.085bc22accdbffceddc5.jpg",
+    "static/media/phones.jpg": "/myKart/static/media/phones.d88c1175a5202da9189c.jpg",
+    "static/media/laptop.jpg": "/myKart/static/media/laptop.a19407e89fc20daf941f.jpg",
+    "static/media/homet.jpg": "/myKart/static/media/homet.d4fafdad1ca74dc57079.jpg",
+    "static/media/goldw.jpg": "/myKart/static/media/goldw.24de789db94d37b69835.jpg",
+    "static/media/grocery.jpg": "/myKart/static/media/grocery.dc32070acbbdbdc07dc1.jpg",
+    "static/media/beau.jpg": "/myKart/static/media/beau.057d2275457af97de570.jpg",
+    "index.html": "/myKart/index.html",
+    "main.db5946f7.css.map": "/myKart/static/css/main.db5946f7.css.map",
+    "main.ea8db0a7.js.map": "/myKart/static/js/main.ea8db0a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db5946f7.css",
+    "static/js/main.ea8db0a7.js"
+  ]
+}
