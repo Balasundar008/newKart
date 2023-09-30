@@ -1,0 +1,39 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.col{
+  position: relative;
+}
+.count{
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: white;
+  padding: 10px;
+  color: black;
+  border-radius: 10px;
+  border-color: black;
+
+}
+
+.nav:hover{
+color: red;
+
+}
+.catagory:hover{
+  border-bottom: 5px solid white;
+}
+
+::-webkit-scrollbar{
+  width:12px;
+}
+::-webkit-scrollbar-track{
+  background: grey;
+}
+
+::-webkit-scrollbar-thumb{
+  background:  sandybrown;
+  border-radius: 12px;
+  
+}
